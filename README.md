@@ -23,3 +23,6 @@
 }
 
 ```
+#####效果演示:
+
+![](ActionSheet1.gif)  ![](ActionSheet2.gif)  
